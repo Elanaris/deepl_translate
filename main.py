@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
 # ----- Constants -----
-chrome_driver_path = r"C:\Users\elana\Google Drive\Programming\Python\chromedriver.exe"
+chrome_driver_path = YOUR_CHROME_DRIVER_PATH
 # Write a source language acronym in small letters like "de" or "nl"
 SOURCE_LANGUAGE = "de"
 # Write a target language acronym like "cs-CS" or "en-US"
